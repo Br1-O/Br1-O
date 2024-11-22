@@ -22,7 +22,7 @@
 
 🖱️ I am currently pursuing a Technical Degree in Systems Analysis, complemented by various specialized courses. My goal is to certify my knowledge, acquire new skills, and stay up-to-date with the latest technological trends. 
 
-📧Please feel free to contact me! bruno.ortuno2@gmail.com
+📧 Please feel free to contact me at: bruno.ortuno2@gmail.com
 
   
 <img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
