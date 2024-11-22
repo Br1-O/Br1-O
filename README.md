@@ -39,6 +39,10 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Br1-O&theme=merko">
 </a>
 
+<br/>
+<br/>
+<img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
+
 ## 🛠️ &nbsp;Languages and Databases
 
 <p>
@@ -61,7 +65,8 @@
   <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 </p>
-  
+
+<br/>
 <img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
 
 ## 👨🏼‍💻 &nbsp;My Projects
