@@ -74,43 +74,42 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Nextflix_FullStack&theme=tokyonight" />
 </a>
 -->
-<div align="center">
-  <a href="https://github.com/Br1-O/kanbanate_app" height=250 width=500>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=kanbanate_app&theme=merko" />
-  </a>
-  
-  <a href="https://github.com/Br1-O/oshare-store" height=250 width=500>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare-store&theme=merko" />
-  </a>
-  
-  <a href="https://github.com/Br1-O/oshare_designs_api" height=250 width=500>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare_designs_api&theme=merko" />
-  </a>
-  
-  <a href="https://github.com/Br1-O/bakery-store" height=250 width=500>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=bakery-store&theme=merko" />
-  </a>
-  
-  <a href="https://github.com/Br1-O/voice_assistant" height=250 width=500>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=voice_assistant&theme=merko" />
-  </a>
-  
-  <a href="https://github.com/Br1-O/AyED1/tree/main/TrabajoFinal" height=250 width=500>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=AyED1&theme=merko" />
-  </a>
-  
-  <a href="https://github.com/Br1-O/pokedex" height=250 width=500>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=pokedex&theme=merko"/>
-  </a>
-  
-  <a href="https://github.com/Br1-O/Br1-O.github.io" height=250 width=500>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Br1-O.github.io&theme=merko" />
-  </a>
-  
-  <a href="https://github.com/Br1-O/consoleGame_ShipShooter" height=250 width=500>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=consoleGame_ShipShooter&theme=merko" />
-  </a>
-</div>
+
+<a href="https://github.com/Br1-O/kanbanate_app" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=kanbanate_app&theme=merko" />
+</a>
+
+<a href="https://github.com/Br1-O/oshare-store" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare-store&theme=merko" />
+</a>
+
+<a href="https://github.com/Br1-O/oshare_designs_api" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare_designs_api&theme=merko" />
+</a>
+
+<a href="https://github.com/Br1-O/bakery-store" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=bakery-store&theme=merko" />
+</a>
+
+<a href="https://github.com/Br1-O/voice_assistant" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=voice_assistant&theme=merko" />
+</a>
+
+<a href="https://github.com/Br1-O/AyED1/tree/main/TrabajoFinal" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=AyED1&theme=merko" />
+</a>
+
+<a href="https://github.com/Br1-O/pokedex" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=pokedex&theme=merko"/>
+</a>
+
+<a href="https://github.com/Br1-O/Br1-O.github.io" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Br1-O.github.io&theme=merko" />
+</a>
+
+<a href="https://github.com/Br1-O/consoleGame_ShipShooter" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=consoleGame_ShipShooter&theme=merko" />
+</a>
 
 <br/>
 <br/>
