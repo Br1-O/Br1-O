@@ -110,6 +110,6 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bortuno-022a4823b/"><img alt="Linkedin" title="Bruno Ortuno Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bortuno"><img alt="Linkedin" title="Bruno Ortuno Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:bruno.ortuno2@gmail.com"><img alt="Gmail" title="Bruno Ortuno Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
