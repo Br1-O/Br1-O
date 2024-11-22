@@ -38,7 +38,7 @@
 </p>
   
   
-## 🛠️ &nbsp;Languages and Databases :
+## 🛠️ &nbsp;Languages and Databases
 
 <p>
   <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -63,7 +63,7 @@
   
 <img src="https://s2.ezgif.com/tmp/ezgif-2-34b6320e12.gif" alt="Matrix code animation gif" />
 
-## 👨🏼‍💻 &nbsp;My Projects :
+## 👨🏼‍💻 &nbsp;My Projects
 
 <!-- <a href="https://github.com/Br1-O/Nextflix_FullStack">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Nextflix_FullStack&theme=tokyonight" />
