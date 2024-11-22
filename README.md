@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer+💻;Chess+Enthusiast+♟️;Always%20learning%20📚;Always%20building%20🔨&center=true&width=500&height=50"></a>
 </p>
 
-#### Full Stack Web Developer 
+### Full Stack Web Developer 
 
 * _Proactivity and Teamwork_ 👨‍👩‍👧‍👦
 * _Passionate about technology_ 📡
@@ -12,9 +12,9 @@
 
 #### "Talk is cheap. Show me the code." – Linus Torvalds
 
-![Matrix code animation gif](https://s2.ezgif.com/tmp/ezgif-2-5dd8abcd0e.gif "Matrix code animation gif")
+<img src="https://s2.ezgif.com/tmp/ezgif-2-22c6acdf3b.gif" alt="Matrix code animation gif" />
+<!--![Matrix code animation gif](https://s2.ezgif.com/tmp/ezgif-2-5dd8abcd0e.gif "Matrix code animation gif")-->
 
-<br/>
 
 ## 👨🏼‍💻 &nbsp;About Me
 
@@ -24,7 +24,9 @@
 
 📧Please feel free to contact me! bruno.ortuno2@gmail.com
 
-<br/>
+  
+<img src="https://s2.ezgif.com/tmp/ezgif-2-34b6320e12.gif" alt="Matrix code animation gif" />
+
 
 ## 📊 &nbsp;GitHub Profile Stats
 
@@ -34,11 +36,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Br1-O&layout=compact&langs_count=8&theme=algolia">
   </a>
 </p>
-
-<br/>
-<br/>
-
-## 🛠️ Languages and Databases :
+  
+  
+## 🛠️ &nbsp;Languages and Databases :
 
 <p>
   <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -60,10 +60,10 @@
   <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 </p>
+  
+<img src="https://s2.ezgif.com/tmp/ezgif-2-34b6320e12.gif" alt="Matrix code animation gif" />
 
-<br/>
-
-## 👨🏼‍💻 My Projects :
+## 👨🏼‍💻 &nbsp;My Projects :
 
 <!-- <a href="https://github.com/Br1-O/Nextflix_FullStack">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Nextflix_FullStack&theme=tokyonight" />
@@ -106,8 +106,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=consoleGame_ShipShooter&theme=tokyonight" />
 </a>
 
-## Connect with Me
+<br/>
+<br/>
+  
+<img src="https://s2.ezgif.com/tmp/ezgif-2-34b6320e12.gif" alt="Matrix code animation gif" />
 
+## 📨 &nbsp;Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bortuno"><img alt="Linkedin" title="Bruno Ortuno Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
