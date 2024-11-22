@@ -15,34 +15,6 @@
 <img src="https://i.imgur.com/TKCwfDp.gif" alt="Matrix code animation gif" />
 <!--![Matrix code animation gif](https://i.imgur.com/l8dPAHd.gif "Matrix code animation gif")-->
 
-
-## 👨🏼‍💻 &nbsp;About Me
-
-💻 I am a full-stack developer passionate about designing and implementing scalable and efficient software solutions. My experience includes languages such as Java, C++, Python, JavaScript, PHP, and SQL, enabling me to tackle projects from multiple perspectives and deliver high-quality results. 
-
-🖱️ I am currently pursuing a Technical Degree in Systems Analysis, complemented by various specialized courses. My goal is to certify my knowledge, acquire new skills, and stay up-to-date with the latest technological trends. 
-
-📧 Please feel free to contact me at: bruno.ortuno2@gmail.com
-
-  
-<img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
-
-
-## 📊 &nbsp;GitHub Profile Stats
-
-<a href="https://github.com/Br1-O">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Br1-O&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Br1-O&layout=compact&langs_count=8&theme=merko">
-</a>
-
-<a href="https://github.com/Br1-O">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Br1-O&theme=merko">
-</a>
-
-<br/>
-<br/>
-<img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
-
 ## 🛠️ &nbsp;Languages, Frameworks and Tools
 
 <p>
@@ -67,6 +39,21 @@
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 </p>
 
+<br/>
+<img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
+
+## 📊 &nbsp;GitHub Profile Stats
+
+<a href="https://github.com/Br1-O">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Br1-O&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Br1-O&layout=compact&langs_count=8&theme=merko">
+</a>
+
+<a href="https://github.com/Br1-O">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Br1-O&theme=merko">
+</a>
+
+<br/>
 <br/>
 <img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
 
@@ -115,6 +102,16 @@
 
 <br/>
 <br/>
+  
+<img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
+
+## 👨🏼‍💻 &nbsp;About Me
+
+💻 I am a full-stack developer passionate about designing and implementing scalable and efficient software solutions. My experience includes languages such as Java, C++, Python, JavaScript, PHP, and SQL, enabling me to tackle projects from multiple perspectives and deliver high-quality results. 
+
+🖱️ I am currently pursuing a Technical Degree in Systems Analysis, complemented by various specialized courses. My goal is to certify my knowledge, acquire new skills, and stay up-to-date with the latest technological trends. 
+
+📧 Please feel free to contact me at: bruno.ortuno2@gmail.com
   
 <img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
 
