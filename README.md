@@ -30,18 +30,14 @@
 
 ## 📊 &nbsp;GitHub Profile Stats
 
-<p align="center">
-  <a href="https://github.com/Br1-O">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Br1-O&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Br1-O&layout=compact&langs_count=8&theme=merko">
-  </a>
-</p>
+<a href="https://github.com/Br1-O">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Br1-O&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Br1-O&layout=compact&langs_count=8&theme=merko">
+</a>
 
-<p align="center">
-  <a href="https://github.com/Br1-O">
-    <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Br1-O&theme=merko">
-  </a>
-</p>
+<a href="https://github.com/Br1-O">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Br1-O&theme=merko">
+</a>
 
 ## 🛠️ &nbsp;Languages and Databases
 
