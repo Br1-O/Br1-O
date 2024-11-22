@@ -30,13 +30,17 @@
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"></a>
   <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-327FC7.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-327FC7.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white"></a>
 </p>
 
 <br/>
@@ -57,7 +61,7 @@
 <br/>
 <img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
 
-## 👨🏼‍💻 &nbsp;My Projects
+## 💻 &nbsp;My Projects
 
 <!-- <a href="https://github.com/Br1-O/Nextflix_FullStack">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Nextflix_FullStack&theme=tokyonight" />
