@@ -43,7 +43,7 @@
 <br/>
 <img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
 
-## 🛠️ &nbsp;Languages and Databases
+## 🛠️ &nbsp;Languages and Frameworks
 
 <p>
   <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
