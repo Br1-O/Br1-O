@@ -32,8 +32,8 @@
 
 <p align="center">
   <a href="https://github.com/Br1-O">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Br1-O&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Br1-O&layout=compact&langs_count=8&theme=algolia">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Br1-O&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Br1-O&layout=compact&langs_count=8&theme=merko">
   </a>
 </p>
   
@@ -71,39 +71,39 @@
 -->
 
 <a href="https://github.com/Br1-O/kanbanate_app" height=250 width=500>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=kanbanate_app&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=kanbanate_app&theme=merko" />
 </a>
 
 <a href="https://github.com/Br1-O/oshare-store" height=250 width=500>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare-store&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare-store&theme=merko" />
 </a>
 
 <a href="https://github.com/Br1-O/oshare_designs_api" height=250 width=500>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare_designs_api&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare_designs_api&theme=merko" />
 </a>
 
 <a href="https://github.com/Br1-O/bakery-store" height=250 width=500>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=bakery-store&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=bakery-store&theme=merko" />
 </a>
 
 <a href="https://github.com/Br1-O/voice_assistant" height=250 width=500>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=voice_assistant&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=voice_assistant&theme=merko" />
 </a>
 
 <a href="https://github.com/Br1-O/AyED1/tree/main/TrabajoFinal" height=250 width=500>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=AyED1&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=AyED1&theme=merko" />
 </a>
 
 <a href="https://github.com/Br1-O/pokedex" height=250 width=500>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=pokedex&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=pokedex&theme=merko"/>
 </a>
 
 <a href="https://github.com/Br1-O/Br1-O.github.io" height=250 width=500>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Br1-O.github.io&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Br1-O.github.io&theme=merko" />
 </a>
 
 <a href="https://github.com/Br1-O/consoleGame_ShipShooter" height=250 width=500>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=consoleGame_ShipShooter&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=consoleGame_ShipShooter&theme=merko" />
 </a>
 
 <br/>
