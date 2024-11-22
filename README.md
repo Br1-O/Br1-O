@@ -12,8 +12,8 @@
 
 #### "Talk is cheap. Show me the code." – Linus Torvalds
 
-<img src="https://s2.ezgif.com/tmp/ezgif-2-22c6acdf3b.gif" alt="Matrix code animation gif" />
-<!--![Matrix code animation gif](https://s2.ezgif.com/tmp/ezgif-2-5dd8abcd0e.gif "Matrix code animation gif")-->
+<img src="https://i.imgur.com/TKCwfDp.gif" alt="Matrix code animation gif" />
+<!--![Matrix code animation gif](https://i.imgur.com/l8dPAHd.gif "Matrix code animation gif")-->
 
 
 ## 👨🏼‍💻 &nbsp;About Me
@@ -25,7 +25,7 @@
 📧Please feel free to contact me! bruno.ortuno2@gmail.com
 
   
-<img src="https://s2.ezgif.com/tmp/ezgif-2-34b6320e12.gif" alt="Matrix code animation gif" />
+<img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
 
 
 ## 📊 &nbsp;GitHub Profile Stats
@@ -61,7 +61,7 @@
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 </p>
   
-<img src="https://s2.ezgif.com/tmp/ezgif-2-34b6320e12.gif" alt="Matrix code animation gif" />
+<img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
 
 ## 👨🏼‍💻 &nbsp;My Projects
 
@@ -109,7 +109,7 @@
 <br/>
 <br/>
   
-<img src="https://s2.ezgif.com/tmp/ezgif-2-34b6320e12.gif" alt="Matrix code animation gif" />
+<img src="https://i.imgur.com/l8dPAHd.gif" alt="Matrix code animation gif" />
 
 ## 📨 &nbsp;Connect with Me
 
