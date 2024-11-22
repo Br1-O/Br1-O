@@ -8,7 +8,7 @@
 * _Proactivity and Teamwork_ 👨‍👩‍👧‍👦
 * _Passionate about technology_ 📡
 * _Efficient perfectionist_ ⏱️
-* _Polymath_ 🦉
+* _Polymath aspirant_ 🦉
 
 #### "Talk is cheap. Show me the code." – Linus Torvalds
 
@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://github.com/Br1-O">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Br1-O&theme=merko">
+  <img height="278em" src="https://github-readme-activity-graph.vercel.app/graph?username=Br1-O&theme=merko">
 </a>
 
 <br/>
