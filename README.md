@@ -70,40 +70,40 @@
 </a>
 -->
 
-<a href="https://github.com/Br1-O/kanbanate_app" style="width: 350px; height: 550px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=kanbanate_app&theme=tokyonight" />
+<a href="https://github.com/Br1-O/kanbanate_app" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=kanbanate_app&theme=algolia" />
 </a>
 
-<a href="https://github.com/Br1-O/oshare-store" style="width: 350px; height: 550px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare-store&theme=tokyonight" />
+<a href="https://github.com/Br1-O/oshare-store" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare-store&theme=algolia" />
 </a>
 
-<a href="https://github.com/Br1-O/oshare_designs_api" style="width: 350px; height: 550px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare_designs_api&theme=tokyonight" />
+<a href="https://github.com/Br1-O/oshare_designs_api" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=oshare_designs_api&theme=algolia" />
 </a>
 
-<a href="https://github.com/Br1-O/bakery-store" style="width: 350px; height: 550px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=bakery-store&theme=tokyonight" />
+<a href="https://github.com/Br1-O/bakery-store" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=bakery-store&theme=algolia" />
 </a>
 
-<a href="https://github.com/Br1-O/voice_assistant" style="width: 350px; height: 550px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=voice_assistant&theme=tokyonight" />
+<a href="https://github.com/Br1-O/voice_assistant" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=voice_assistant&theme=algolia" />
 </a>
 
-<a href="https://github.com/Br1-O/pokedex" style="width: 350px; height: 550px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=pokedex&theme=tokyonight"/>
+<a href="https://github.com/Br1-O/AyED1/tree/main/TrabajoFinal" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=AyED1&theme=algolia" />
 </a>
 
-<a href="https://github.com/Br1-O/Br1-O.github.io" style="width: 350px; height: 550px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Br1-O.github.io&theme=tokyonight" />
+<a href="https://github.com/Br1-O/pokedex" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=pokedex&theme=algolia"/>
 </a>
 
-<a href="https://github.com/Br1-O/AyED1/tree/main/TrabajoFinal" style="width: 350px; height: 550px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=AyED1&theme=tokyonight" />
+<a href="https://github.com/Br1-O/Br1-O.github.io" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=Br1-O.github.io&theme=algolia" />
 </a>
 
-<a href="https://github.com/Br1-O/consoleGame_ShipShooter" style="width: 350px; height: 550px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=consoleGame_ShipShooter&theme=tokyonight" />
+<a href="https://github.com/Br1-O/consoleGame_ShipShooter" height=250 width=500>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Br1-O&repo=consoleGame_ShipShooter&theme=algolia" />
 </a>
 
 <br/>
