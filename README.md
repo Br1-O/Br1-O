@@ -54,10 +54,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Br1-O&layout=compact&langs_count=8&theme=merko">
 </a>
 
-<a href="https://github.com/Br1-O">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Br1-O&theme=merko">
-</a>
-
 <!--
 <a href="https://github.com/Br1-O">
   <img height="278em" src="https://github-readme-activity-graph.vercel.app/graph?username=Br1-O&theme=merko">
